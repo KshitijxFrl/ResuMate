@@ -8,7 +8,7 @@ Try ResuMate:- [ResuMate](https://openai.com)
 
 ResuMate is a easy to use resume checker. 
 
--> Simpllie UI user only need to upload their resume (PDF/DOC formate). <\br>
+-> Simpllie UI user only need to upload their resume (PDF/DOC formate). 
 
 ->Automatic process will sacn the uploaded document extract the information.
 
