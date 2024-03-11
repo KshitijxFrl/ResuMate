@@ -1,6 +1,6 @@
 # ResuMate 🎯
 
-Try ResuMate:- [ResuMate](https://openai.com)
+⭐Try ResuMate:- [ResuMate](https://resumatedp-rn8ghkqdsthcbgyl6y4ccr.streamlit.app/)
 
 ResuMate is a cutting-edge application designed to enhance resume evaluation processes. With seamless integration of Streamlit and OpenAI's GPT-3.5-turbo model, users can effortlessly upload their resumes and receive comprehensive feedback in moments. Whether you're a seasoned Software Development Engineer or entering the field, ResuMate offers invaluable insights to refine your resume. Leverage the power of AI to uncover areas for improvement and polish your professional profile with precision. Say goodbye to manual review processes and embrace a more efficient and insightful approach to resume refinement with ResuMate.
 
@@ -20,5 +20,7 @@ ResuMate is a easy to use resume checker.
 
 -> The entire app is built with StreamLit and OpenAI api.
 
-Try ResuMate:- [ResuMate](https://openai.com)
+-> ❗❗ If you want to run the app localy or on your server please create and use your own api key.
+
+⭐Try ResuMate:- [ResuMate](https://resumatedp-rn8ghkqdsthcbgyl6y4ccr.streamlit.app/)
 
