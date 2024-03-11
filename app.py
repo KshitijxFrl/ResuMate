@@ -12,7 +12,7 @@ from streamlit_custom_notification_box import custom_notification_box
 
 # ||--API key integration--||
 
-openai.api_key = "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"
+openai.api_key = "Please enter your open ai key"
 
 
 # ||--Funtions--||
