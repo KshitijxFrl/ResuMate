@@ -7,7 +7,7 @@
 
 ResuMate is a easy to use resume checker. 
 
--> Simpllie UI user only need to upload their resume (PDF/DOC formate). \n
+-> Simpllie UI user only need to upload their resume (PDF/DOC formate). <\br>
 ->Automatic process will sacn the uploaded document extract the information.
 ->That extract information will be provided to OpenAI's GPT-3.5-turbo model using open ai api which will genereate the review.
 -> The generate review will be dispalayed on their schreen.
