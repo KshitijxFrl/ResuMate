@@ -1,0 +1,5 @@
+streamlit==1.26.0
+openai
+streamlit_custom_notification_box
+PyPDF2 
+python-docx
